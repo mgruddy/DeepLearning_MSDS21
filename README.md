@@ -11,6 +11,8 @@ The repository associated with MSDS631 at University of San Francisco in Summer 
 
 **Office Hours**: Tuesdays/Thursdays at 3pm - 4pm Pacific Time
 
+**Syllabus**: [Link](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/MSDS631_DeepLearning_Syllabus.pdf)
+
 ## Course Learning Outcomes
 
 - Understand Neural Networks and basic techniques for using them effectively (dropout, batch normalization, data augmentation, etc.).
