@@ -5,17 +5,23 @@ The repository associated with MSDS631 at University of San Francisco in Summer 
 
 **Email**: mruddy@usfca.edu
 
-**Class Time**: TBD
+**Class Time**: Tuesdays/Thursdays at 10am - 12pm Pacific Time
 
 **Location:** Zoom (see Canvas)
 
-**Office Hours**: TBD
-
-**Syllabus**: Link
+**Office Hours**: Tuesdays/Thursdays at 3pm - 4pm Pacific Time
 
 ## Course Learning Outcomes
 
-TBD
+- Understand Neural Networks and basic techniques for using them effectively (dropout, batch normalization, data augmentation, etc.).
+- Learn how to handle image data and use Convolutional Neural Networks for various imaging tasks.
+- Learn how to handle text data and use Recurrent Neural Networks and Transformers for various Natural Language Processing tasks and for other tasks involving sequential data.
+- Practice implementing these techniques from PyTorch from scratch.
+- Complete a Deep Learning project as part of team from start to end using real world data:
+  - Research literature for the problem,
+  - Prepare/clean data,
+  - Apply the appropriate deep learning techniques,
+  - Evaluate and communicate the results.
 
 ## Course Overview
 
