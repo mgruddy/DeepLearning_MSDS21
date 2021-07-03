@@ -40,40 +40,50 @@ As students will often be asked to share and discuss their work, and work on ass
 
 ## Schedule
 
+
 **Week 1**
 
-7/6?
-7/8
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 7/6: Introduction to Deep Learning and this course | | | | |
+ | 7/8: Techniques for making Deep Learning work | | | | |
+
+HW1: TBD (Due 7/16 at 11:59pm Pacific Time)
 
 **Week 2**
 
-7/13
-
-7/15
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 7/13: Deep Learning with Image Data | | | | |
+ | 7/15: Data Augmentation and Transfer Learning | | | | |
 
 **Week 3**
 
-7/20
-
-7/22
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 7/20: Final Project Description Presentation | | | | |
+ | 7/22: Deep Learning with Text Data| | | | |
 
 **Week 4**
 
-7/22
-
-7/29
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 7/27: Sequence Models? | | | | |
+ | 7/29: BERT/Transformers? | | | | |
 
 **Week 5**
 
-8/3
-
-8/5
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 8/3: Multi-Task Learning? | | | | |
+ | 8/5: Other Imaging/NLP tasks?| | | | |
 
 **Week 6**
 
-8/10
-
-8/12
+| Topic | Slides | In Class Code | Lab | Due Date |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 8/10: Style Transfer/GANs?| | | | |
+ | 8/12: Final Project Presentation| | | | |
 
  ### Important USF Dates
  
