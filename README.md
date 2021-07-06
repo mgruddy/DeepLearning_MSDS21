@@ -7,7 +7,7 @@ The repository associated with MSDS631 at University of San Francisco in Summer 
 
 **Class Time**: Tuesdays/Thursdays at 10am - 12pm Pacific Time
 
-**Location:** Zoom (see Canvas)
+**Location:** Zoom (see Canvas; recorded lectures may be available upon request)
 
 **Office Hours**: Tuesdays/Thursdays at 3pm - 4pm Pacific Time
 
@@ -41,7 +41,6 @@ The course will be graded based on the following components:
 As students will often be asked to share and discuss their work, and work on assignments with their peers, the code of conduct **MUST** be followed. Students are expected to be highly respectful of their peers during and outside of class to help foster an inclusive environment where everyone is comfortable making mistakes and contributing. When working as a group, it is every group member's responsibility to make sure everyone has input and understands the answers given. Students are also expected to be respectful of the instructor and other MSDS faculty.
 
 ## Schedule
-
 
 **Week 1**
 
