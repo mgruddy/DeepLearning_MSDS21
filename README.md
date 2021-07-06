@@ -49,7 +49,7 @@ As students will often be asked to share and discuss their work, and work on ass
  | 7/6: Introduction to Deep Learning and this course | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture1_Introduction.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture1_Introduction.ipynb) | [Lab 1](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_1/Lab1.pdf) | July 7th 11:59pm PDT|
  | 7/8: Techniques for making Deep Learning work | | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture2_Make_DL_Work.ipynb) | | |
 
-HW1: TBD (Due 7/16 at 11:59pm Pacific Time)
+HW1: Recommendation Systems with a Feed Forward Neural Network (Due 7/16 at 11:59pm Pacific Time)
 
 **Week 2**
 
