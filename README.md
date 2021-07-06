@@ -47,7 +47,7 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 7/6: Introduction to Deep Learning and this course | | | | |
+ | 7/6: Introduction to Deep Learning and this course | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture1_Introduction.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture1_Introduction.ipynb) | [Lab 1](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_1/Lab1.pdf) | July 7th 11:59pm PDT|
  | 7/8: Techniques for making Deep Learning work | | | | |
 
 HW1: TBD (Due 7/16 at 11:59pm Pacific Time)
