@@ -65,6 +65,8 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
  | 7/20: Final Project Description Presentation | | | | |
  | 7/22: Deep Learning with Text Data| | | | |
 
+HW2: Twin Neural Networks (Due 7/30 at 11:59pm Pacific Time) 
+
 **Week 4**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
@@ -78,6 +80,8 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 8/3: Multi-Task Learning? | | | | |
  | 8/5: Other Imaging/NLP tasks?| | | | |
+
+HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
 **Week 6**
 
