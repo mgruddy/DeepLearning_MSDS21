@@ -56,7 +56,7 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/13: Deep Learning with Image Data | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture3_Images_and_CNNs.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture3_Images_and_CNNs.ipynb) |[Lab 3](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_3/Lab3.pdf) | July 15th 11:59 PDT |
- | 7/15: Data Augmentation and Transfer Learning | | | Lab 4 | July 18th 11:59 PDT|
+ | 7/15: Data Augmentation and Transfer Learning | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture4_Imaging_Small_Datasets.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture4_Transfer_Augmentation.ipynb) | [Lab 4](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_4/Lab4.pdf) | July 18th 11:59 PDT|
 
 **Week 3**
 
