@@ -55,8 +55,8 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 7/13: Deep Learning with Image Data | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture3_Images_and_CNNs.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture3_Images_and_CNNs.ipynb) |[Lab 3](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_3/Lab3.pdf) | July 14th 11:59 PDT |
- | 7/15: Data Augmentation and Transfer Learning | | | Lab 4 | July 16th 11:59 PDT|
+ | 7/13: Deep Learning with Image Data | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture3_Images_and_CNNs.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture3_Images_and_CNNs.ipynb) |[Lab 3](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_3/Lab3.pdf) | July 15th 11:59 PDT |
+ | 7/15: Data Augmentation and Transfer Learning | | | Lab 4 | July 18th 11:59 PDT|
 
 **Week 3**
 
@@ -64,6 +64,8 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/20: Final Project Description Presentation | | | | |
  | 7/22: Deep Learning with Text Data| | | | |
+
+HW2: Twin Neural Networks (Due 7/30 at 11:59pm Pacific Time) 
 
 **Week 4**
 
@@ -78,6 +80,8 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 8/3: Multi-Task Learning? | | | | |
  | 8/5: Other Imaging/NLP tasks?| | | | |
+
+HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
 **Week 6**
 
