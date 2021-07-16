@@ -63,23 +63,23 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/20: Final Project Description Presentation | | | | |
- | 7/22: Deep Learning with Text Data| | | | |
-
-HW2: Twin Neural Networks (Due 7/30 at 11:59pm Pacific Time) 
+ | 7/22: Deep Learning with Text Data| | | Lab 5 | July 23rd 11:59 PDT|
 
 **Week 4**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 7/27: Sequence Models | | | | |
- | 7/29: BERT/Transformers | | | | |
+ | 7/27: Sequence Models | | | See HW2 | |
+ | 7/29: BERT/Transformers | | | Lab 6 | July 30th 11:59 PDT |
+ 
+ HW2: Twin Neural Networks (Due 8/3 at 11:59pm Pacific Time) 
 
 **Week 5**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/3: Multi-Task Learning and More Imaging | | | | |
- | 8/5: Either More NLP or Recommendation Systems| | | | |
+ | 8/3: Multi-Task Learning and More Imaging | | | See HW3 | |
+ | 8/5: Either More NLP or Recommendation Systems| | | Lab 7 | August 6th 11:59 PDT |
 
 HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
@@ -87,7 +87,7 @@ HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | | |
+ | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | Lab 8 | August 13th 11:59 PDT |
  | 8/12: Final Project Presentation| | | | |
 
  ### Important USF Dates
