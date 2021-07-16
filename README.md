@@ -71,15 +71,15 @@ HW2: Twin Neural Networks (Due 7/30 at 11:59pm Pacific Time)
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 7/27: Sequence Models? | | | | |
- | 7/29: BERT/Transformers? | | | | |
+ | 7/27: Sequence Models | | | | |
+ | 7/29: BERT/Transformers | | | | |
 
 **Week 5**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/3: Multi-Task Learning? | | | | |
- | 8/5: Other Imaging/NLP tasks?| | | | |
+ | 8/3: Multi-Task Learning and More Imaging | | | | |
+ | 8/5: Either More NLP or Recommendation Systems| | | | |
 
 HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
@@ -87,7 +87,7 @@ HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/10: Style Transfer/GANs?| | | | |
+ | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | | |
  | 8/12: Final Project Presentation| | | | |
 
  ### Important USF Dates
