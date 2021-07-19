@@ -63,7 +63,7 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/20: Final Project Description Presentation | | | | |
- | 7/22: Deep Learning with Text Data| | | Lab 5 | July 23rd 11:59 PDT|
+ | 7/22: Deep Learning with Text Data| | | Lab 5 | July 25th 11:59 PDT|
 
 **Week 4**
 
