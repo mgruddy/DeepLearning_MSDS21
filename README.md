@@ -63,7 +63,7 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/20: Final Project Description Presentation | | | | |
- | 7/22: Deep Learning with Text Data| | | Lab 5 | July 25th 11:59 PDT|
+ | 7/22: Deep Learning with Text Data| [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture5_Text_Data.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture5_Text_Embeddings_Models.ipynb) | [Lab 5](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Lab_5/Lab5.pdf) | July 25th 11:59 PDT|
 
 **Week 4**
 
