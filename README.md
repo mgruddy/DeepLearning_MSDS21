@@ -78,10 +78,10 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/3: Multi-Task Learning and More Imaging | | | See HW3 | |
+ | 8/3: Multi-Task Learning and More Imaging | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture8_More_Imaging.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture8_More_Imaging.ipynb) | See HW3 | |
  | 8/5: Final Project Office Hours | | | | |
 
-HW3: Bounding Boxes (Due 8/10 at 11:59pm Pacific Time)
+HW3: [Bounding Boxes](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Homework_3/Homework3.pdf) (Due 8/10 at 11:59pm Pacific Time)
 
 **Week 6**
 
