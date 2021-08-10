@@ -87,7 +87,7 @@ HW3: [Bounding Boxes](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/A
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | | |
+ | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture9_More_Topics.pdf) | | | |
  | 8/12: Final Project Presentation| | | | |
 
  ### Important USF Dates
