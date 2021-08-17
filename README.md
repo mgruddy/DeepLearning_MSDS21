@@ -1,5 +1,5 @@
 # MSDS 631: Deep Learning Neural Networks
-The repository associated with MSDS631 at University of San Francisco in Summer 2021. This course has ended; solutions to the assignments are available to anyone upon request.
+The repository associated with MSDS631 at University of San Francisco in Summer 2021. This course has ended; solutions to the assignments are available upon request.
 
 **Instructor:** Michael Ruddy
 
@@ -7,7 +7,7 @@ The repository associated with MSDS631 at University of San Francisco in Summer 
 
 **Class Time**: Tuesdays/Thursdays at 10am - 12pm Pacific Time
 
-**Location:** Zoom (see Canvas; recorded lectures may be available upon request)
+**Location:** Zoom (see Canvas)
 
 **Office Hours**: Tuesdays/Thursdays at 3pm - 4pm Pacific Time
 
