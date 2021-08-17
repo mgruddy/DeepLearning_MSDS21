@@ -1,5 +1,5 @@
 # MSDS 631: Deep Learning Neural Networks
-The repository associated with MSDS631 at University of San Francisco in Summer 2021.
+The repository associated with MSDS631 at University of San Francisco in Summer 2021. This course has ended; solutions to the assignments are available to anyone upon request.
 
 **Instructor:** Michael Ruddy
 
@@ -89,6 +89,8 @@ HW3: [Bounding Boxes](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/A
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture9_More_Topics.pdf) | | | |
  | 8/12: Final Project Presentation| | | | |
+ 
+ The final projects produced by the students in this course can be viewed [here](https://docs.google.com/spreadsheets/d/1kUJCgP5zK7Mg0FWoD59JZxE04A1s6AfPNAjaomQSHP0/edit?usp=sharing).
 
  ### Important USF Dates
  
